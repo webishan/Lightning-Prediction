@@ -1,0 +1,3 @@
+Temperature_2m_C,Temperature_Max_C,Temperature_Min_C,Relative_Humidity_%,Precipitation_mm,Wind_Speed_m/s,Surface_Pressure_kPa,Solar_Radiation_kWh/m2,Date,Location,Latitude,Longitude
+28.77,31.88,26.73,89.18,3.0,2.13,100.26,19.66,2024-08-15,Dhaka,23.8103,90.4125
+28.27,30.72,26.42,92.33,41.5,3.83,100.26,11.21,2024-08-20,Dhaka,23.8103,90.4125

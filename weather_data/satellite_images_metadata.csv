@@ -1,0 +1,21 @@
+status,error,date,location
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-05,Dhaka
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-05,Chittagong
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-05,Sylhet
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-05,Rangpur
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-10,Dhaka
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-10,Chittagong
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-10,Sylhet
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-10,Rangpur
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-15,Dhaka
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-15,Chittagong
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-15,Sylhet
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-15,Rangpur
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-20,Dhaka
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-20,Chittagong
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-20,Sylhet
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-20,Rangpur
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-25,Dhaka
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-25,Chittagong
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-25,Sylhet
+error,"HTTPSConnectionPool(host='api.nasa.gov', port=443): Read timed out. (read timeout=30)",2024-08-25,Rangpur

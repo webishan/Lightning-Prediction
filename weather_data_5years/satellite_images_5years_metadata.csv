@@ -1,0 +1,41 @@
+status,filename,file_size_kb,date,actual_image_date,location,cloud_cover,error
+success,Dhaka_2019-01-07.png,610.6953125,2019-01-15,2019-01-07,Dhaka,0.02,
+success,Dhaka_2019-04-13.png,613.9765625,2019-04-15,2019-04-13,Dhaka,12.14,
+success,Dhaka_2019-07-18.png,1.830078125,2019-07-15,2019-07-18,Dhaka,68.9,
+success,Dhaka_2019-10-22.png,585.2783203125,2019-10-15,2019-10-22,Dhaka,14.44,
+success,Dhaka_2020-01-10.png,571.927734375,2020-01-15,2020-01-10,Dhaka,1.42,
+success,Dhaka_2020-04-15.png,459.78515625,2020-04-15,2020-04-15,Dhaka,66.83,
+no_data,,,2020-07-15,,Dhaka,,No images <70% clouds
+success,Dhaka_2020-10-08.png,446.7333984375,2020-10-15,2020-10-08,Dhaka,18.24,
+success,Dhaka_2021-01-12.png,583.4384765625,2021-01-15,2021-01-12,Dhaka,1.41,
+success,Dhaka_2021-04-18.png,594.5283203125,2021-04-15,2021-04-18,Dhaka,3.44,
+no_data,,,2021-07-15,,Dhaka,,No images <70% clouds
+success,Dhaka_2021-10-11.png,590.8291015625,2021-10-15,2021-10-11,Dhaka,1.2,
+no_data,,,2022-01-15,,Dhaka,,No images <70% clouds
+success,Dhaka_2022-04-21.png,667.15234375,2022-04-15,2022-04-21,Dhaka,26.99,
+success,Dhaka_2022-07-10.png,607.0205078125,2022-07-15,2022-07-10,Dhaka,33.07,
+success,Dhaka_2022-10-14.png,590.439453125,2022-10-15,2022-10-14,Dhaka,20.71,
+success,Dhaka_2023-01-18.png,573.0185546875,2023-01-15,2023-01-18,Dhaka,0.11,
+success,Dhaka_2023-04-08.png,610.646484375,2023-04-15,2023-04-08,Dhaka,0.05,
+success,Dhaka_2023-07-13.png,348.361328125,2023-07-15,2023-07-13,Dhaka,24.59,
+success,Dhaka_2023-10-17.png,626.1865234375,2023-10-15,2023-10-17,Dhaka,4.27,
+success,Chittagong_2019-01-16.png,496.4921875,2019-01-15,2019-01-16,Chittagong,3.17,
+success,Chittagong_2019-04-22.png,596.5126953125,2019-04-15,2019-04-22,Chittagong,17.47,
+no_data,,,2019-07-15,,Chittagong,,No images <70% clouds
+success,Chittagong_2019-10-15.png,628.458984375,2019-10-15,2019-10-15,Chittagong,12.95,
+success,Chittagong_2020-01-19.png,527.0068359375,2020-01-15,2020-01-19,Chittagong,0.96,
+success,Chittagong_2020-04-08.png,646.140625,2020-04-15,2020-04-08,Chittagong,65.28,
+no_data,,,2020-07-15,,Chittagong,,No images <70% clouds
+success,Chittagong_2020-10-17.png,593.564453125,2020-10-15,2020-10-17,Chittagong,33.64,
+success,Chittagong_2021-01-21.png,551.8583984375,2021-01-15,2021-01-21,Chittagong,28.1,
+success,Chittagong_2021-04-11.png,483.2294921875,2021-04-15,2021-04-11,Chittagong,11.13,
+no_data,,,2021-07-15,,Chittagong,,No images <70% clouds
+success,Chittagong_2021-10-20.png,440.99609375,2021-10-15,2021-10-20,Chittagong,48.92,
+success,Chittagong_2022-01-08.png,518.29296875,2022-01-15,2022-01-08,Chittagong,0.0,
+success,Chittagong_2022-04-14.png,279.9501953125,2022-04-15,2022-04-14,Chittagong,32.6,
+success,Chittagong_2022-07-19.png,623.8330078125,2022-07-15,2022-07-19,Chittagong,51.53,
+success,Chittagong_2022-10-07.png,632.8671875,2022-10-15,2022-10-07,Chittagong,1.22,
+success,Chittagong_2023-01-11.png,503.5810546875,2023-01-15,2023-01-11,Chittagong,0.01,
+success,Chittagong_2023-04-17.png,569.07421875,2023-04-15,2023-04-17,Chittagong,16.33,
+success,Chittagong_2023-07-22.png,647.5595703125,2023-07-15,2023-07-22,Chittagong,47.94,
+success,Chittagong_2023-10-10.png,526.671875,2023-10-15,2023-10-10,Chittagong,17.85,

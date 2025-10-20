@@ -1,0 +1,5 @@
+status,filename,file_size_kb,date,actual_image_date,location,cloud_cover,error
+success,Dhaka_2023-01-18.png,573.0185546875,2023-01-15,2023-01-18,Dhaka,0.11,
+success,Dhaka_2023-01-18.png,573.0185546875,2023-01-20,2023-01-18,Dhaka,0.11,
+success,Chittagong_2023-01-11.png,503.5810546875,2023-01-15,2023-01-11,Chittagong,0.01,
+no_data,,,2023-01-20,,Chittagong,,No cloud-free images found

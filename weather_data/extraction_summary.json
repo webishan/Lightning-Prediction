@@ -1,0 +1,23 @@
+{
+  "extraction_date": "2025-10-19 21:50:03",
+  "total_samples": 20,
+  "locations": [
+    "Dhaka",
+    "Chittagong",
+    "Sylhet",
+    "Rangpur"
+  ],
+  "dates": [
+    "2024-08-05",
+    "2024-08-10",
+    "2024-08-15",
+    "2024-08-20",
+    "2024-08-25"
+  ],
+  "weather_records": 20,
+  "satellite_images_downloaded": 0,
+  "satellite_images_failed": 20,
+  "weather_file": "weather_data/weather_data_20_samples.csv",
+  "image_file": "weather_data/satellite_images_metadata.csv",
+  "image_directory": "satellite_images"
+}

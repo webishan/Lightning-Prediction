@@ -1,0 +1,21 @@
+status,error,date,location,images_found,filename,file_size_kb,actual_image_date,cloud_cover,scene_id
+no_data,No cloud-free images found within ±8 days of 2023-08-15,2023-08-15,Dhaka,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-18,2023-08-18,Dhaka,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-21,2023-08-21,Dhaka,0,,,,,
+success,,2023-08-24,Dhaka,2,Dhaka_2023-08-30.png,553.630859375,2023-08-30,9.52,LC81370432023242LGN00
+success,,2023-08-27,Dhaka,2,Dhaka_2023-08-30.png,553.630859375,2023-08-30,9.52,LC81370432023242LGN00
+no_data,No cloud-free images found within ±8 days of 2023-08-15,2023-08-15,Chittagong,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-18,2023-08-18,Chittagong,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-21,2023-08-21,Chittagong,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-24,2023-08-24,Chittagong,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-27,2023-08-27,Chittagong,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-15,2023-08-15,Sylhet,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-18,2023-08-18,Sylhet,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-21,2023-08-21,Sylhet,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-24,2023-08-24,Sylhet,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-27,2023-08-27,Sylhet,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-15,2023-08-15,Rangpur,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-18,2023-08-18,Rangpur,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-21,2023-08-21,Rangpur,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-24,2023-08-24,Rangpur,0,,,,,
+no_data,No cloud-free images found within ±8 days of 2023-08-27,2023-08-27,Rangpur,0,,,,,
