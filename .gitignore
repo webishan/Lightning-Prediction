@@ -1,5 +1,10 @@
-# Large dataset files
-lightning_prediction_dataset/combined_*.csv
-lightning_prediction_dataset/*_updated.csv
+# Large datasets
+preprocessed_data/*.csv
+lightning_prediction_dataset/*.csv
 
-combined_2023_2025_all_districts_updated.csv
+# Trained models
+models/*.joblib
+
+# Cache / temp
+__pycache__/
+*.pyc
